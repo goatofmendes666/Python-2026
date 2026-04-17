@@ -9,3 +9,5 @@ print("Garv is a Successful Man") # This is correct and won't give me errors.
 #and is also charming and hot")
 
 # Escape Characters
+#By using Escape characters I can achieve what we wanted.
+print("Garv is a Successful Man \nand he is charming and hot.")
