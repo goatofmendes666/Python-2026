@@ -2,13 +2,12 @@ a = 10
 b = "Garv"
 # Variable is like a container, we can use this container to store any type of data --> String, decimal, float, double, char.
 # A variable is like a container which holds a value, just like a container holds anything liquid or solid or semi liquid
-# just like that a variable holds a data, and just like a lable gives name to the container.
-# In the same way, a variable name is a name given to the variable. 
+# just like that a variable holds a data, and just like a label gives name to the container.# In the same way, a variable name is a name given to the variable. 
 garv = 25
 c = garv
 print(c)
 print(a + c)
-# we can also find the datatype of a variable using "type(variabble)"
+# we can also find the datatype of a variable using "type(variable)"
 print("The type of b is ", type(b))
 print("The type of a is", type(a)) # Integer data type
 d = True
@@ -30,4 +29,4 @@ print(dict1) # Dictionary Data Type
 
 # Let me tell you something Interesting about python.
 # In python each and everything is an object. Integer, float, boolean, None, Lists, Tupples, Dictionary, eyc. 
-# Each and everything is an object in python. 
+# In python each and everything is an object. Integer, float, boolean, None, Lists, Tuples, Dictionary, etc. 
